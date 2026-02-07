@@ -16,6 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IsabelVSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="IsabelVSousa's GitHub Stats" width="49%" />
 </p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelVSousa&theme=default" alt="GitHub Streak" />
+
+
 
 ## 🛠️ Languages & Tools
 
