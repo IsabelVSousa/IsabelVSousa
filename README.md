@@ -11,13 +11,11 @@
 - Creative freelance background in concept and production art, now a DAW student eager to learn web development, UX/UI design. I aim to combine my visual storytelling skills with programming to create engaging and user-friendly digital experiences.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabelVSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="IsabelVSousa's GitHub Stats" width="49%" />
-</p>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelVSousa&theme=default" alt="GitHub Streak" />
-
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=IsabelVSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="IsabelVSousa's GitHub Stats" width="49%" /> -->
+</p>
 
 
 ## 🛠️ Languages & Tools
