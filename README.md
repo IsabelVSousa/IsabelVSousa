@@ -1,15 +1,9 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Isabel Sousa</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=IsabelVSousa">
-    <img src="https://komarev.com/ghpvc/?username=IsabelVSousa&label=Profile%20views&color=00FFFF&style=flat-square" alt="IsabelVSousa's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - Creative freelance background in concept and production art, now a DAW student eager to learn web development, UX/UI design. I aim to combine my visual storytelling skills with programming to create engaging and user-friendly digital experiences.
-
+<br>- 🔭 Currently working on VOID/FRAME<br>- 🌱 Learning Angular / testing / animations with Framer Motion<br>- 💬 Ask me about modern CSS, UI
 
 ## 📊 GitHub Stats 
 <p align="center">
