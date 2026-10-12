@@ -1,35 +1,65 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Isabel Sousa</h1>
-<h3 align="center">Web Developer</h3>
+<div align="center">
 
-## 📌 About Me
-- Creative freelance background in concept and production art, now a DAW student eager to learn web development, UX/UI design. I aim to combine my visual storytelling skills with programming to create engaging and user-friendly digital experiences.
-<br>- 🔭 Currently working on VOID/FRAME<br>- 🌱 Learning Angular / testing / animations with Framer Motion<br>- 💬 Ask me about modern CSS, UI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ISABEL%20SOUSA&fontSize=84&fontAlignY=50&fontColor=F2F2EE" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ISABEL%20SOUSA&fontSize=84&fontAlignY=50&fontColor=0A0A0A" width="100%" alt="Isabel Sousa" />
+</picture>
 
-## 📊 GitHub Stats 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IsabelVSousa&theme=default" alt="GitHub Streak" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=IsabelVSousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="IsabelVSousa's GitHub Stats" width="49%" /> -->
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=56&text=FRONT-END%20DEV%20%2B%20CONCEPT%20ART&fontSize=32&fontAlignY=50&fontColor=F2F2EE" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=56&text=FRONT-END%20DEV%20%2B%20CONCEPT%20ART&fontSize=32&fontAlignY=50&fontColor=0A0A0A" width="100%" alt="Front-end dev and concept art" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=520&lines=%3E+NOW%3A+VOID%2FFRAME;%3E+LEARNING%3A+ANGULAR;%3E+ASK+ME%3A+MODERN+CSS+%2B+UI&color=F2F2EE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=1200&center=true&vCenter=true&width=520&lines=%3E+NOW%3A+VOID%2FFRAME;%3E+LEARNING%3A+ANGULAR;%3E+ASK+ME%3A+MODERN+CSS+%2B+UI&color=0A0A0A" alt="Now: VOID/FRAME. Learning: Angular. Ask me about modern CSS and UI" />
+</picture>
 
-## 🛠️ Languages & Tools
+</div>
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/isabel-victoria-sousa-bria-3aaa3717b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:ivsousa.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+<br />
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+### `[01]` ABOUT ME
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
+Front-end developer in training with a freelance background in concept and production art. I'm currently studying Web Application Development (DAW) and combining my visual storytelling skills with code to build engaging, user-friendly digital experiences.
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelVSousa&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p> -->
+✦ **Now:** VOID/FRAME<br />
+✦ **Learning:** Angular, testing and web animations<br />
+✦ **Background:** concept & production art<br />
+✦ **Ask me about:** modern CSS and UI<br />
 
-## 🔗 Connect with Me
-<p align="left"> <a href="www.linkedin.com/in/isabel-victoria-sousa-bria-3aaa3717b" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Isabel Sousa's LinkedIn"/></a> <a href="mailto:ivsousa.dev@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Isabel Sousa's Email"/></a></p>
+### `[02]` PROJECTS
 
+| Project | Description | Stack |
+|---|---|---|
+| [**VOID/FRAME**](https://github.com/IsabelVSousa/VOIDFRAME) | One line about what it does <!-- · [Live demo](https://your-demo-url.com) --> | Angular · TypeScript · CSS |
+
+### `[03]` STACK
+
+<div align="center">
+
+<code>FRONTEND</code><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react" alt="Frontend technologies" />
+
+<code>DESIGN & CREATIVE</code><br />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,blender" alt="Design tools" />
+
+<code>BACKEND & LANGUAGES</code><br />
+<img src="https://skillicons.dev/icons?i=java,php,laravel,ruby" alt="Backend technologies" />
+
+<code>DATABASES</code><br />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+
+<code>CLOUD & DEVOPS</code><br />
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github" alt="Cloud and DevOps" />
+
+</div>
