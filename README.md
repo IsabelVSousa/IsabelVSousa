@@ -41,7 +41,7 @@ Front-end developer in training with a freelance background in concept and produ
 
 | Project | Description | Stack |
 |---|---|---|
-| [**VOID/FRAME**](https://github.com/IsabelVSousa/VOIDFRAME) | One line about what it does <!-- · [Live demo](https://your-demo-url.com) --> | Angular · TypeScript · CSS |
+| [**VOID/FRAME**](https://github.com/IsabelVSousa/VOID-FRAME) | One line about what it does <!-- · [Live demo](https://your-demo-url.com) --> | Angular · TypeScript · CSS |
 
 ### `[03]` STACK
 
